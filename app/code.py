@@ -2,4 +2,6 @@ from loguru import logger
 
 
 def print_logs():
-	pass
+	logger.info("Illia's log")
+	logger.info("okorobchuk's log")
+
